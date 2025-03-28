@@ -4,7 +4,7 @@
 
 ## Map of Veteran's Affairs Health Offices
 
-** Background **
+**Background**
 Having family members who have served in the armed forces I created this map as a way to provide infromation for those out of deployment/in the reserves. 
 
 ### Langauges
