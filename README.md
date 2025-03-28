@@ -4,10 +4,10 @@
 
 ## Map of Veteran's Affairs Health Offices
 
-**Background**
-Having family members who have served in the armed forces I created this map as a way to provide infromation for those out of deployment/in the reserves. 
+#### Background
+Having family members who have served in the armed forces I created this map as a way to provide information for those out of deployment/in the reserves. 
 
-### Langauges
+### Languages
 
 - HTML
 - JavaScript
@@ -19,9 +19,9 @@ Having family members who have served in the armed forces I created this map as 
 - Ajax
 - JQuery
 
-** Instructions **
-This map is a chloropleth map meaning that each color shade corresponds to a group of numbers. The lighter and greener the color corresponds to a lower amount of healthcare facilities in the state, vice versa for darker blue colors. 
-Clicking on a state displays the locations of each facility within that state. Hovering over the point displays a box containing information about the facilitiy that includes:
+## Instructions
+This map is a choropleth map meaning that each color shade corresponds to a group of numbers. The lighter and greener the color corresponds to a lower amount of healthcare facilities in the state, and vice versa for darker blue colors. 
+Clicking on a state displays the locations of each facility within that state. Hovering over the point displays a box containing information about the facility that includes:
 - Address
 - Address2 (if applicable)
 - City
